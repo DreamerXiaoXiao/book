@@ -38,7 +38,7 @@ idna==2.7
 itsdangerous==1.1.0
 itypes==1.1.0
 jdcal==1.4
-Jinja2==2.10
+Jinja2==2.11.3
 kombu==4.2.1
 MarkupSafe==1.1.0
 monotonic==1.5
