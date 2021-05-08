@@ -28,7 +28,7 @@ drf-extensions==0.4.0
 drf-haystack==1.8.4
 elasticsearch==2.4.1
 et-xmlfile==1.0.1
-eventlet==0.24.1
+eventlet==0.31.0
 fdfs-client-py==1.2.6
 freeze==1.0.10
 future==0.17.1
